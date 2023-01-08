@@ -111,6 +111,9 @@ public class Main {
         System.out.println("маша теперь получвет " + newAnnualKristinaSalary + " рублей. годовой доход вырос на " + (newAnnualKristinaSalary - annualKristinaSalary) + "рублей");
 
 
+        done
+
+
 
 
 
